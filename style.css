@@ -1,18 +1,1 @@
-.grid-container{
-    display: inline-grid;
-    background-color: aqua;
-    column-gap: 50px;
-    row-gap: 50px;
-    grid-template-columns: 50px 50px 50px ;
-    /* grid-template-rows: 50px 50px ; */
-    padding: 20px;
-border: 5px solid;
-}
 
-.item1{
-    background-color: blue;
-    padding: 20px;
-    text-align: center;
-    font-size:xx-large;
-    border:2px solid;
-}
